@@ -3,7 +3,7 @@ import angularMeteor from 'angular-meteor';
 
 import test from '../imports/components/test/test';
  
-angular.module('simple-todos', [
+angular.module('move-giant', [
   angularMeteor,
   test.name
 ]);
